@@ -1,0 +1,6 @@
+{
+  "name": "TileTrack",
+  "description": "Streamlined Pro habit tracker with GitHub-style contribution tile grids, streak analytics, multiple reminders, and local-first JSON backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
